@@ -1,0 +1,5 @@
+<div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; width: 300px; margin: 10px;">
+  ### Card Title
+
+  This is an example of a card in a Markdown file. You can use a combination of HTML, CSS, and Markdown to create card-like elements.
+</div>
